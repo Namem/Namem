@@ -8,10 +8,27 @@
 
 ---
 
-## 🧠 Habilidades
-- Python • Django • JavaScript • React
-- Estrutura de redes • Assistência técnica
-- Git • GitHub • Docker (básico)
+## 🧠 Habilidades Técnicas
+- Programação em Python (PCAP, Orientação a Objetos, GUI com Python)
+- Desenvolvimento web com Django e HTML/CSS/JS
+- Assistência técnica presencial e remota (Helpdesk N1)
+- Estruturação de redes cabeadas e configuração de ativos
+- Controle de versão com Git e GitHub
+- Lógica de programação e algoritmos
+
+---
+
+## 🚀 Linguagens e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+</p>
 
 ---
 
@@ -24,14 +41,21 @@
 
 ---
 
+## 🏆 Conquistas do GitHub
+
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Namem&theme=tokyonight&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 📚 Formação & Certificações
 
 - **Engenharia da Computação - IFMT** (2021 - atual)
 - **PCAP: Python Essentials – Cisco Netacad** (70h)
 - **Fundamentos do Django – IFMT**
 - **Desenv. Orientado a Objetos em Python – Fundação Bradesco**
-- **Crimpagem de Cabos – IFMT**
 - **Interface Gráfica com Python – Fundação Bradesco**
+- **Crimpagem de Cabos – IFMT**
+- **Inglês – FISK**
 
 ---
 
