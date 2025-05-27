@@ -1,24 +1,21 @@
 
-## 👋 Olá! Eu sou o Namem Rachid Jaudy
+## 👨‍💻 Sobre o Desenvolvedor
 
-🎓 Estudante de Engenharia da Computação no IFMT  
-🔍 Pesquisador em projetos com foco em tecnologia e impacto social  
-💼 Experiência prática em Helpdesk N1, redes cabeadas e assistência técnica  
-💻 Programador com foco em Python, Django, Web e automação
+Estudante de Engenharia da Computação no IFMT, apaixonado por resolver problemas reais através da tecnologia. Atuo com desenvolvimento web, automação e suporte técnico, sempre buscando aprender mais e colaborar em projetos com impacto social.
 
 ---
 
-## 🧠 Habilidades Técnicas
-- Programação em Python (PCAP, Orientação a Objetos, GUI com Python)
-- Desenvolvimento web com Django e HTML/CSS/JS
-- Assistência técnica presencial e remota (Helpdesk N1)
-- Estruturação de redes cabeadas e configuração de ativos
-- Controle de versão com Git e GitHub
-- Lógica de programação e algoritmos
+## 🧰 Stack e Habilidades
+
+- **Linguagens**: Python, JavaScript, HTML, CSS
+- **Frameworks**: Django, React
+- **Banco de Dados**: PostgreSQL, SQLite
+- **Ferramentas**: Git, GitHub, Docker (básico)
+- **Outras Competências**: Crimpagem de cabos, assistência técnica presencial e remota, estruturação de redes cabeadas
 
 ---
 
-## 🚀 Linguagens e Ferramentas
+## 🧪 Tecnologias Experimentadas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
@@ -32,34 +29,30 @@
 
 ---
 
-## 📌 Projetos em Destaque
+## 💻 Principais Repositórios
+
 | Projeto | Descrição |
 |--------|-----------|
-| [`compiladores`](https://github.com/Namem/compiladores) | Linguagem Quimera inspirada em Pascal, Java e Lua |
-| [`programacaoweb`](https://github.com/Namem/programacaoweb) | Projeto de desenvolvimento web com foco educacional |
-| [`escravinho`](https://github.com/Namem/escravinho) | Sistema Helpdesk para TI com gerenciamento de chamados |
+| [`javou`](https://github.com/Namem/javou) | Sistema de Helpdesk desenvolvido com Django, com gestão de chamados, controle de usuários e dashboard interativo. |
+| [`compiladores`](https://github.com/Namem/compiladores) | Desenvolvimento de uma linguagem de programação própria (Quimera), inspirada em Pascal, Lua e Java. |
+| [`programacaoweb`](https://github.com/Namem/programacaoweb) | Projeto educacional de desenvolvimento web, com foco no aprendizado de HTML, CSS, JS e Django. |
 
 ---
 
-## 🏆 Conquistas do GitHub
+## 🏫 Educação e Formação
 
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Namem&theme=tokyonight&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📚 Formação & Certificações
-
-- **Engenharia da Computação - IFMT** (2021 - atual)
-- **PCAP: Python Essentials – Cisco Netacad** (70h)
-- **Fundamentos do Django – IFMT**
-- **Desenv. Orientado a Objetos em Python – Fundação Bradesco**
-- **Interface Gráfica com Python – Fundação Bradesco**
-- **Crimpagem de Cabos – IFMT**
-- **Inglês – FISK**
+- Engenharia da Computação - IFMT (2021 - atual)
+- PCAP: Python Essentials – Cisco Netacad (70h)
+- Fundamentos do Django – IFMT
+- Desenvolvimento O.O. em Python – Fundação Bradesco
+- GUI com Python – Fundação Bradesco
+- Crimpagem de Cabos – IFMT
+- Inglês – FISK
 
 ---
 
-## 📫 Contato
+## 📬 Contato
+
 - ✉️ namem.rachid.jaudy@gmail.com
 - 📱 (65) 99670-6479
 - 🌐 [LinkedIn](https://www.linkedin.com/in/namem-rachid-jaudy-616138124)
