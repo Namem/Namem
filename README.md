@@ -61,3 +61,10 @@ Estudante de Engenharia da Computação no IFMT, apaixonado por resolver problem
 ---
 
 ![Namem GitHub stats](https://github-readme-stats.vercel.app/api?username=Namem&show_icons=true&theme=tokyonight)
+
+
+---
+
+## 🏆 Conquistas no GitHub
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Namem&theme=tokyonight&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
