@@ -1,70 +1,51 @@
+## 👨‍💻 Namem Rachid
 
-## 👨‍💻 Sobre o Desenvolvedor
-
-Estudante de Engenharia da Computação no IFMT, apaixonado por resolver problemas reais através da tecnologia. Atuo com desenvolvimento web, automação e suporte técnico, sempre buscando aprender mais e colaborar em projetos com impacto social.
-
----
-
-## 🧰 Stack e Habilidades
-
-- **Linguagens**: Python, JavaScript, HTML, CSS
-- **Frameworks**: Django, React
-- **Banco de Dados**: PostgreSQL, SQLite
-- **Ferramentas**: Git, GitHub, Docker (básico)
-- **Outras Competências**: Crimpagem de cabos, assistência técnica presencial e remota, estruturação de redes cabeadas
+Estudante de Engenharia da Computação no IFMT, apaixonado por resolver problemas reais com tecnologia. Trabalho com desenvolvimento web, sistemas embarcados, IA aplicada e suporte técnico — sempre com foco em impacto social.
 
 ---
 
-## 🧪 Tecnologias Experimentadas
+### 🚀 Projetos em Destaque
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-</p>
-
----
-
-## 💻 Principais Repositórios
-
-| Projeto | Descrição |
-|--------|-----------|
-| [`javou`](https://github.com/Namem/javou) | Sistema de Helpdesk desenvolvido com Django, com gestão de chamados, controle de usuários e dashboard interativo. |
-| [`compiladores`](https://github.com/Namem/compiladores) | Desenvolvimento de uma linguagem de programação própria (Quimera), inspirada em Pascal, Lua e Java. |
-| [`programacaoweb`](https://github.com/Namem/programacaoweb) | Projeto educacional de desenvolvimento web, com foco no aprendizado de HTML, CSS, JS e Django. |
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**HackHero2026**](https://github.com/Namem/HackHero2026) | App de proteção parental com IA — classifica conteúdo de jogos em tempo real e notifica responsáveis. Hackathon 2026. | Flutter · Django · Docker · Gemini Vision |
+| [**extensao2**](https://github.com/Namem/extensao2) | TCC — Ceres Diagnóstico: detecção precoce de doenças em tomateiro com ESP32-S3, TFLite Micro (98,4% acc) e app mobile. | ESP32 · TFLite · Flutter · Django · MQTT |
+| [**quimera-lang**](https://github.com/Namem/quimera-lang) | Compilador completo para linguagem própria (Quimera): análise léxica, sintática, semântica e geração de código LLVM-IR. | Python · ANTLR4 · LLVM |
+| [**pix-fraud-detection**](https://github.com/Namem/pix-fraud-detection) | Detecção de anomalias em transações Pix usando Regras de Associação (Apriori) com análise de padrões e visualizações. | Python · Pandas · MLxtend · Jupyter |
+| [**javou-helpdesk**](https://github.com/Namem/javou-helpdesk) | Sistema de helpdesk completo com dashboard, base de conhecimento e gestão de chamados. Deploy via Docker. | Django · PostgreSQL · Docker |
+| [**ceres-mas**](https://github.com/Namem/ceres-mas) | Assistente agrícola multi-agente: engenheiro agrônomo e contador virtual com dashboard financeiro em tempo real. | Python · Streamlit · SQLAlchemy |
 
 ---
 
-## 🏫 Educação e Formação
+### 🧰 Habilidades
 
-- Engenharia da Computação - IFMT (2021 - atual)
-- PCAP: Python Essentials – Cisco Netacad (70h)
-- Fundamentos do Django – IFMT
-- Desenvolvimento O.O. em Python – Fundação Bradesco
-- GUI com Python – Fundação Bradesco
-- Crimpagem de Cabos – IFMT
-- Inglês – FISK
+**Linguagens:** Python · JavaScript · Dart · C++ · HTML · CSS
 
----
+**Frameworks & Libs:** Django · Flutter · React · Streamlit · TensorFlow · TFLite
 
-## 📬 Contato
+**Banco de Dados:** PostgreSQL · SQLite
 
-- ✉️ namem.rachid.jaudy@gmail.com
-- 📱 (65) 99670-6479
-- 🌐 [LinkedIn](https://www.linkedin.com/in/namem-rachid-jaudy-616138124)
-- 🔬 [Currículo Lattes](http://lattes.cnpq.br/6385581109833787)
+**Ferramentas:** Git · Docker · MQTT (Mosquitto) · PlatformIO · WSL2
+
+**Hardware & IoT:** ESP32-S3 · DHT22 · UART · WiFi · TFLite Micro
+
+**Outros:** Crimpagem de cabos · Redes cabeadas · Suporte técnico presencial e remoto
 
 ---
 
-![Namem GitHub stats](https://github-readme-stats.vercel.app/api?username=Namem&show_icons=true&theme=tokyonight)
+### 🏫 Formação
 
+- **Engenharia da Computação** — IFMT Cuiabá (2021 – atual)
+- PCAP: Python Essentials — Cisco Netacad (70h)
+- Desenvolvimento O.O. em Python — Fundação Bradesco
+- GUI com Python — Fundação Bradesco
+- Fundamentos do Django — IFMT
+- Inglês — FISK
 
 ---
 
-## 🏆 Conquistas no GitHub
+### 📬 Contato
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Namem&theme=tokyonight&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/namem-rachid-jaudy-616138124)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:namem.rachid.jaudy@gmail.com)
+[![Lattes](https://img.shields.io/badge/Lattes-1A4B8C?style=flat&logoColor=white)](http://lattes.cnpq.br/6385581109833787)
