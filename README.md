@@ -9,11 +9,11 @@ Estudante de Engenharia da Computação no IFMT, apaixonado por resolver problem
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
 | [**HackHero2026**](https://github.com/Namem/HackHero2026) | 🥉 **3° lugar — Hackathon Hacker Hero 2026.** App de proteção parental com IA: classifica conteúdo de jogos em tempo real sem armazenar imagens (LGPD). | Flutter · Django · Docker · Gemini Vision |
-| [**extensao2**](https://github.com/Namem/extensao2) | TCC — Ceres Diagnóstico: detecção precoce de doenças em tomateiro com ESP32-S3 + TFLite Micro (98,4% acc) + app mobile. | ESP32 · TFLite · Flutter · Django · MQTT |
+| [**Ceres-Diagnostico**]([https://github.com/Namem/extensao2](https://github.com/Namem/Ceres-Diagnostico)) | TCC — Ceres Diagnóstico: detecção precoce de doenças em tomateiro com ESP32-S3 + TFLite Micro (98,4% acc) + app mobile. | ESP32 · TFLite · Flutter · Django · MQTT |
 | [**quimera-lang**](https://github.com/Namem/quimera-lang) | Compilador completo para linguagem própria (Quimera): análise léxica, sintática, semântica e geração de código LLVM-IR. | Python · ANTLR4 · LLVM |
 | [**pix-fraud-detection**](https://github.com/Namem/pix-fraud-detection) | Detecção de anomalias em transações Pix usando Regras de Associação (Apriori) com análise de padrões e visualizações. | Python · Pandas · MLxtend · Jupyter |
 | [**javou-helpdesk**](https://github.com/Namem/javou-helpdesk) | Sistema de helpdesk completo com dashboard, base de conhecimento e gestão de chamados. Deploy via Docker. | Django · PostgreSQL · Docker |
-| [**ceres-mas**](https://github.com/Namem/ceres-mas) | Assistente agrícola multi-agente: engenheiro agrônomo e contador virtual com dashboard financeiro em tempo real. | Python · Streamlit · SQLAlchemy |
+
 
 ---
 
